@@ -1,9 +1,6 @@
 WAAAAAAAAAAAAAAAA JAI FAIM
 Tacos Tuesday (Ben) Modifié par Alex 
-<<<<<<< HEAD
-Consigne 26, je modifie le même fichier mais je suis sur la branche de base 
-=======
 
+Consigne 26, je modifie le même fichier mais je suis sur la branche de base 
 
 J'emmerde les fachos
->>>>>>> a94afd8 (Consigne 25 pour Alex et Ben)
