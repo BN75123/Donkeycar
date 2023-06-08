@@ -1,8 +1,8 @@
 Alllllllllllllo
 KFC 
 AAHAHHAHAHAHHAHHAHAHHAH
-<<<<<<< HEAD
+
 JAJAJAJAJAJJAJAJAJAJ
-=======
+
 BenAlex25 
->>>>>>> 75efb94 (BenAlex25)
+
