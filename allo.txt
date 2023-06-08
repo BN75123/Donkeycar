@@ -1,6 +1,7 @@
 Alllllllllllllo
 KFC 
 AAHAHHAHAHAHHAHHAHAHHAH
+<<<<<<< HEAD
 
 
 JAJAJAJAJAJJAJAJAJAJ
@@ -13,3 +14,6 @@ BenAlex25
 
 BRANCH 29 EST OUAIS
 
+=======
+BenAlex25 
+>>>>>>> parent of b5ff173 (Exercice29Ben)
